@@ -1,6 +1,6 @@
-# untitled
+# I AM Rich App
 
-A new Flutter project.
+This is My First FLutter Project 
 
 ## Getting Started
 
