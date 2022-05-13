@@ -1,6 +1,7 @@
 # I AM Rich App
 
-This is My First FLutter Project. This app has no functionality, it will basically just show the image of a bright shining diamond
+This is My First FLutter Project. This app has no functionality, it will basically just show the image of a bright shining diamond.
+To View the the app i have posted a screenshot
 
 Mentor : Angela Yu
 
