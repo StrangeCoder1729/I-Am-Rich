@@ -1,6 +1,6 @@
 # I AM Rich App
 
-This is My First FLutter Project.
+This is My First FLutter Project. This app has no functionality, it will basically just show the image of a bright shining diamond
 
 Mentor : Angela Yu
 
