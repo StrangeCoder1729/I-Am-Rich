@@ -1,6 +1,8 @@
 # I AM Rich App
 
-This is My First FLutter Project 
+This is My First FLutter Project.
+
+Mentor : Angela Yu
 
 <!-- This project is a starting point for a Flutter application.
 
